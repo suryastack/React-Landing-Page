@@ -2,7 +2,7 @@ import React from "react";
 
 const TopCards = () => {
   return (
-    <div className="flex flex-col gap-6 px-4 py-5 rounded-2xl shadow-lg sm:grid sm:grid-cols-2 sm:gap-6 sm:px-6 md:px-10 md:gap-8 lg:flex lg:flex-row lg:gap-6 lg:px-14 xl:gap-10 xl:px-30">
+    <div className="flex flex-col gap-6 px-4 py-5 rounded-2xl shadow-lg sm:grid sm:grid-cols-2 sm:gap-6 sm:px-6 md:px-10 md:gap-8 lg:flex lg:flex-row lg:gap-6 lg:px-14 xl:gap-10 xl:px-20">
     <div className="flex items-start gap-4 w-full ">
       <div className="w-10 h-10 shrink-0 flex items-center justify-center rounded-lg bg-blue-100 sm:w-12 sm:h-12">
         <i className="ri-shield-line text-xl text-blue-700 sm:text-2xl"></i>
