@@ -4,7 +4,7 @@ import BottomContent from './BottomContent'
 
 const Section2 = () => {
   return (
-    <div className='h-screen w-full flex flex-col gap-5'>
+    <div className='w-full h-auto py-8 flex flex-col gap-6 sm:py-10 sm:gap-7 md:py-12 xl:h-screen xl:py-0 xl:gap-5'>
       <TopContent />
       <BottomContent />
     </div>

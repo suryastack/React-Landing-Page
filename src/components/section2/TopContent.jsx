@@ -4,7 +4,7 @@ import TopCards from './TopCards'
 
 const TopContent = () => {
   return (
-    <div className='flex flex-col items-center gap-5'>
+    <div className='flex flex-col items-center gap-3 sm:gap-4 md:gap-5'>
       <TopText />
       <TopCards />
     </div>

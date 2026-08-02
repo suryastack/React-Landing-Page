@@ -2,13 +2,14 @@ import React from "react";
 
 const C1Logo = () => {
   return (
-    <div className="flex text-white items-center justify-center text-2xl font-semibold">
+    <div className="flex text-white items-center justify-center text-xl font-semibold sm:text-2xl">
       <svg
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         viewBox="0 0 48 48"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
+        className="sm:w-12 sm:h-12"
       >
         <path d="M24 6L10 20H16L24 12L32 20H38L24 6Z" fill="#ffff" />
         <path d="M24 16L10 30H16L24 22L32 30H38L24 16Z" fill="#ffff" />
