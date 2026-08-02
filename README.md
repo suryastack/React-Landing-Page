@@ -38,7 +38,7 @@ src/
 
 Try the live version here:
 
-**https://suryastack.github.io/Image-Editor/**
+**https://suryastack.github.io/React-Landing-Page/**
 
 ## 🚀 Getting Started
 
